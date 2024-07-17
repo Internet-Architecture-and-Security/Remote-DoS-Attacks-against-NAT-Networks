@@ -6,7 +6,7 @@ If you use any derivative of the code or datasets from our work, please cite our
 ```
 @inproceedings{feng2025dos,
   title={An Empirical Study on Remote DoS Attacks against NAT Networks},
-  author={Feng, David and Yang, Yuxiang and Li, Qi and Zhan, Xingxiang and Sun, Kun Sun and Wang, Ziqiang and Wang, Ao and Du, Ganqiu and Xu, Ke},
+  author={Feng, David and Yang, Yuxiang and Li, Qi and Zhan, Xingxiang and Sun, Kun and Wang, Ziqiang and Wang, Ao and Du, Ganqiu and Xu, Ke},
   booktitle={Proceedings of the 2025 Network and Distributed System Security (NDSS) Symposium},
   year={2025}
 }
